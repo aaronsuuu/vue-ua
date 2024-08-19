@@ -1,0 +1,24 @@
+{
+  "name": "vue-ua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronsuuu/vue-ua.git"
+  },
+  "author": "Aaronsuuu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronsuuu/vue-ua/issues"
+  },
+  "homepage": "https://github.com/aaronsuuu/vue-ua#readme",
+  "dependencies": {
+    "@vueuse/core": "^11.0.0",
+    "ua-parser-js": "^1.0.38",
+    "vue": "^3.4.38"
+  }
+}
