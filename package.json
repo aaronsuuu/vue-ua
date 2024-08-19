@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,13 @@
   },
   "homepage": "https://github.com/aaronsuuu/vue-ua#readme",
   "dependencies": {
+    "@vue/test-utils": "^2.4.6",
     "@vueuse/core": "^11.0.0",
     "ua-parser-js": "^1.0.38",
     "vue": "^3.4.38"
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.1",
+    "vitest": "^2.0.5"
   }
 }
