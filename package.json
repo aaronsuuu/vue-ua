@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "User agent hook for Vue 3",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "vitest"
   },
