@@ -1,5 +1,5 @@
 {
-  "name": "vue-ua",
+  "name": "@aaronsuuu/vue-ua",
   "version": "1.0.0",
   "description": "User agent hook for Vue 3",
   "main": "index.js",
